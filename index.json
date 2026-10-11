@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxcontrib-serializinghtml",
+  "versions": [
+    {
+      "commit": "f0f3b15b2e6bb47570d605ebd5687643d7a85b9d",
+      "tag": "2.0.0",
+      "parsed_at": "2026-10-11T23:26:07.149414+00:00"
+    }
+  ]
+}
