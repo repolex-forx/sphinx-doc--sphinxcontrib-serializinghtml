@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-serializinghtml/commit/f0f3b15b2e6bb47570d605ebd5687643d7a85b9d",
       "git:hexsha": "f0f3b15b2e6bb47570d605ebd5687643d7a85b9d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.0"
     },
     {
