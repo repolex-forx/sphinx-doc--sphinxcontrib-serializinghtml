@@ -197,7 +197,8 @@
           "githubUrl": "https://github.com/sphinx-doc/sphinx",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "dep": "dep/f0f3b15b2e6bb47570d605ebd5687643d7a85b9d.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
