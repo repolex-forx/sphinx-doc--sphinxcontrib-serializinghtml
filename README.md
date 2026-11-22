@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── f0f3b15b2e6bb47570d605ebd5687643d7a85b9d
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── f0f3b15b2e6bb47570d605ebd5687643d7a85b9d.nq.gz
 │   └── repolex
 │       └── f0f3b15b2e6bb47570d605ebd5687643d7a85b9d
 │           └── chunk-001.nq.gz
@@ -176,6 +178,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── f0f3b15b2e6bb47570d605ebd5687643d7a85b9d.nq.gz
 ├── filetree
 │   └── f0f3b15b2e6bb47570d605ebd5687643d7a85b9d.nq.gz
 ├── pr
@@ -183,7 +187,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-12 directories, 137 files
+14 directories, 139 files
 ```
 
 | Directory | What it contains |
@@ -204,4 +208,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [sphinx-doc/sphinxcontrib-serializinghtml](https://github.com/sphinx-doc/sphinxcontrib-serializinghtml)
 
 ---
-*Parsed on 2026-10-11 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
